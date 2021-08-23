@@ -1,0 +1,19 @@
+
+body{
+    background-image: url(images/loginBGpic) ;
+    background-size: cover;
+    width: 100% auto;
+    height: 100% auto;
+    padding: 0% auto;
+    margin: 0% auto;
+}
+
+.ad-lg-main-div{
+    width: 300px;
+    height: 300px;
+    margin: 10% auto;
+    
+    border:brown;
+    color:white ;
+    font-weight: bold;
+}

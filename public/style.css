@@ -1,0 +1,14 @@
+.fieldset{
+   height: 205px;
+   width: 100px;
+   align-items: center;
+    padding: 50px;
+    margin-top: 80px;
+    margin-left: 400px;
+}
+.admine-supg-btn{
+    justify-content: center;
+    align-items: center;
+    padding-left: 450px;
+}
+

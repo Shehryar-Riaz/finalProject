@@ -1,0 +1,19 @@
+
+body{
+    background-image: url(images/christmas-food-flat-lay-text-welcome-sign-english-walnut-hazelnut-cinnamon-sticks-orange-peel-brown-wooden-background-102712430.jpg) ;
+    background-size: cover;
+    width: 100% auto;
+    height: 100% auto;
+    padding: 0% auto;
+    margin: 0% auto;
+}
+
+.ad-lg-main-div{
+    width: 300px;
+    height: 300px;
+    margin: 10% auto;
+    
+    border:brown;
+    color: black ;
+    font-weight: bold;
+}

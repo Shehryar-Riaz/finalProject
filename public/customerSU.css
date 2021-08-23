@@ -1,0 +1,45 @@
+/* @media only screen and(max-width: 350px){
+    body{
+        
+        width: 200px;
+        height: 200px;
+    }
+ }  */
+
+body{
+    background-image: url(images/welcome-open-signboard-cafe-food-260nw-1989149300.jpg) ;
+    background-size: cover;
+}
+.admine-SU{
+    padding: 0% auto;
+    margin: 08% ;
+   padding-left: 300px;
+    color:rgb(182, 79, 6);
+    align-items:center ;
+    font-weight: bold;
+}
+
+
+.fieldset{
+    width: 100px;
+    height: auto;
+    border-radius: 30px;
+    /* background-color:burlywood; */
+    opacity: 0.;   
+}
+
+.btn{
+    width: 100px;
+    height: 30px;
+    margin: 10px;
+    border-color:wheat ;
+    border-radius: 50px;
+    background-color: yellow;
+}
+.button{
+    margin-left: 08%;
+}
+.legend{
+    color: rgb(10,50.40);
+    font-size: 65px;
+}
